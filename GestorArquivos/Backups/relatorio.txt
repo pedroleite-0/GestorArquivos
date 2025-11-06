@@ -1,0 +1,4 @@
+Arquivo de Relatorio
+========================
+Gerado em: 06/11/2025 20:21:56,62
+Status: OK
